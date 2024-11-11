@@ -26,7 +26,7 @@ const App = () => {
       <Skills/>
       <Hero/>
       <Projects/>
-      
+
     </div>
   );
 };
