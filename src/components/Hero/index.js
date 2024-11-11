@@ -4,7 +4,6 @@ import Certi2 from "../../assets/images/pandas.png";
 
 const Hero = () => {
   return (
-    <div>
       <section className="hero">
         <div className="container-hero">
           <div className="hero-inner">
@@ -43,7 +42,6 @@ const Hero = () => {
           </div>
         </div>
       </section>
-    </div>
   );
 };
 

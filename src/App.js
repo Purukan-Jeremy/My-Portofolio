@@ -3,6 +3,7 @@ import './assets/style.css';
 import Home from './components/Home'
 import Hero from './components/Hero'
 import Skills from './components/Skills';
+import Projects from './components/Projects';
 
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
       <Home/>
       <Skills/>
       <Hero/>
+      <Projects/>
       
     </div>
   );
