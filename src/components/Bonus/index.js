@@ -14,7 +14,7 @@ const Bonus = () => {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
               ></iframe>
-              <div className="bonus-name">Membe membe</div>
+              <div className="bonus-name">One of My precious memories</div>
             </div>
           </div>
         </section>

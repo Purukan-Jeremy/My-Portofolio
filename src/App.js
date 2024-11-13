@@ -1,11 +1,12 @@
 import React from 'react';
 import './assets/style.css';
 import Home from './components/Home'
-import Hero from './components/Hero'
+import Certi from './components/Certi'
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Bonus from './components/Bonus';
 import Contact from './components/Contact';
+import "./config/Firebase";
 
 const App = () => {
   return (
@@ -26,7 +27,7 @@ const App = () => {
       </header>
       <Home/>
       <Skills/>
-      <Hero/>
+      <Certi/>
       <Projects/>
       <Bonus/>
       <Contact/>
